@@ -33,7 +33,7 @@ for (int i = 1; i <= 10; i++) {
     if (i == 7) {
         continue;
     }
-    if (i > 😎 {
+    if (i > 8) {
         break;
     }
     System.out.println("Number: " + i);
@@ -41,3 +41,4 @@ for (int i = 1; i <= 10; i++) {
 
     }
 }
+
